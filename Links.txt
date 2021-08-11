@@ -1,0 +1,13 @@
+https://www.telerik.com/blogs/lets-build-a-financial-dashboard-with-react
+
+https://www.telerik.com/blogs/lets-build-a-sales-dashboard-with-react
+
+https://www.pluralsight.com/guides/building-a-dashboard-in-react
+
+https://github.com/coreui/coreui-free-react-admin-template
+
+https://colorlib.com/wp/react-dashboard-templates/
+
+https://www.fusioncharts.com/dashboards/smart-energy-monitoring-dashboard
+
+https://reduction-admin.github.io/react-reduction/
